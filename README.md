@@ -1,3 +1,4 @@
+
 # RNA-preservation-Device
 
 The Focus of this project will be on the collection of marine biomass from seawater and metabolically ‘freezing’ the RNA profile in situ to prevent degradation and stress-induced deviance upon bringing the sample to the surface, within a simple and cheap device attached to an ROV. Current methods of RNA sample retrieval using the Niskin bottle are creating potentially unreliable results and there is a crucial requirement for sampling strategies that capture RNA profiles accurately and reliably. We aim to introduce a custom RNA profiling system with the capability to preserve the sample in situ, eliminating the archaic practice of Niskin sampling and bringing it to the 21st century. 
